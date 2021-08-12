@@ -1,0 +1,9 @@
+.list-group-item {
+    max-width: auto;
+}
+
+.cursor:hover {
+    cursor: pointer;
+    background-color: #D1D1D1;
+
+}
